@@ -124,7 +124,7 @@ type alias Computer =
 
 myLaptop : Computer
 myLaptop =
-    { ram = "16GB"
+    { ram = "8GB"
     , model = "XPS"
     , brand = "Dell"
     , screenSize = "15"

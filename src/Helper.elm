@@ -127,7 +127,7 @@ myLaptop =
     { ram = "8GB"
     , model = "XPS"
     , brand = "Dell"
-    , screenSize = "15"
+    , screenSize = "14"
     }
 
 
